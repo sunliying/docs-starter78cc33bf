@@ -14,13 +14,6 @@
       "logo": "https://media-resource.spreading.io/docuo/workspace10/bfc4cbdb0092251e821207665ee41f54/logo.png",
       "items": [
         {
-          "type": "docsInstanceDropdown"
-        },
-        {
-          "type": "docsVersionDropdown",
-          "docsInstanceId": "web"
-        },
-        {
           "type": "docSidebar",
           "sidebarIds": [
             "mySidebar"
